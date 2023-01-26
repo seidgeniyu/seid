@@ -8,7 +8,7 @@ class college{
 	}	
 }
 class univ extends college{
-	
+	skfskdfh
 	
 }
 class softwareDepartment extends univ{
