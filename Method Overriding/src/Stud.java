@@ -9,10 +9,7 @@ class college{
 }
 class univ extends college{
 	
-	public void move() {
-		
-		System.out.println("university is open to students");
-	}
+	
 }
 class softwareDepartment extends univ{
 	
